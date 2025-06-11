@@ -1,0 +1,187 @@
+[
+    {
+        "title": "Creacíon de Personajes",
+        "pages": [
+            {"name": "Pantalla de Creación", "ref": "crearpj"},
+            {"name": "Cuentas", "ref": "cuentas"},
+            {"name": "Razas", "ref": "razas"},
+            {"name": "Skills", "ref": "skills"} 
+        ]
+    },
+    {
+        "title": "Comenzando a jugar",
+        "pages": [
+            {"name": "El comienzo", "ref": "el_comienzo"},
+            {"name": "Teclas y Comandos", "ref": "teclas_y_comandos"},
+            {"name": "Interactuar", "ref": "interactuar"},
+            {"name": "Subir de Nivel", "ref": "subir_de_nivel"},
+            {"name": "Opciones de Menú", "ref": "opcionesmenu"},
+            {"name": "Punteros", "ref": "punteros"}
+        ]
+    },
+    {
+        "title": "Combate",
+        "pages": [
+            {"name": "Formas de Combate", "ref": "formas_de_combate"},
+            {"name": "Magia", "ref": "magia"},
+            {"name": "Meditación", "ref": "meditacion"}
+        ]
+    },
+    {
+        "title": "Agrupaciones",
+        "pages": [
+            {"name": "Clanes", "ref": "clanes"},
+            {"name": "Party", "ref": "party"},
+            {"name": "Raids Faccionarias", "ref": "raid", "new": true}
+        ]
+    },
+    {
+        "title": "Sistemas",
+        "pages": [
+            {"name": "Papiros", "ref": "papiros"},
+            {"name": "Cofres", "ref": "cofres"},
+            {"name": "Objetos Destruibles", "ref": "objdest"},
+            {"name": "Soporte", "ref": "soporte"},
+            {"name": "Retos", "ref": "retos"},
+            {"name": "Casamiento", "ref": "casamiento"},
+            {"name": "Correo Goliath", "ref": "correo_goliath"},
+            {"name": "Desempeño", "ref": "desempeno"},
+            {"name": "Ranking Global", "ref": "ranking_global"},
+            {"name": "Cambio de Nick", "ref": "cambio_de_nick"},
+            {"name": "GlobalDrop", "ref": "globaldrop"},
+            {"name": "Cárcel", "ref": "carcel"},
+            {"name": "FAPoints", "ref": "fapoints"},
+            {"name": "Quest's", "ref": "quests"},
+            {"name": "Válido por Pantalón", "ref": "valido"},
+            {"name": "Ticket Dorado", "ref": "ticket_dorado"},
+            {"name": "Máscara Dorada", "ref": "mascara_dorada"},
+            {"name": "Subastas", "ref": "subastas"},
+            {"name": "Sistema de Canjes", "ref": "sistema_de_canjes"},
+            {"name": "Uróboros", "ref": "uroboros", "new": true}
+        ]
+    },
+    {
+        "title": "Criaturas",
+        "pages": [
+            {"name": "NPC's hostiles", "ref": "npcs_hostiles"},
+            {"name": "NPC's no-hostiles", "ref": "npcs_no_hostiles"},
+            {"name": "Domar Animales", "ref": "domar_animales"}
+        ]
+    },
+    {
+        "title": "Dinero",
+        "pages": [
+            {"name": "Monedas de Oro", "ref": "monedas_de_oro"},
+            {"name": "Bóveda", "ref": "boveda"},
+            {"name": "Tiendas", "ref": "tiendas", "updated": true}
+        ]
+    },
+    {
+        "title": "Equipamiento",
+        "pages": [
+            {"name": "Vestimentas y Túnicas", "ref": "tunicas"},
+            {"name": "Armaduras", "ref": "armaduras"},
+            {"name": "Varas Mágicas", "ref": "varas_magicas"},
+            {"name": "Cascos y Gorros", "ref": "cascos_y_gorros"},
+            {"name": "Escudos", "ref": "escudos"},
+            {"name": "Espadas y Dagas", "ref": "espadas_y_dagas"},
+            {"name": "Arcos y Flechas", "ref": "arcos_y_flechas"},
+            {"name": "Armas a Distancia", "ref": "armas_a_distancia"},
+            {"name": "Pociones", "ref": "pociones"},
+            {"name": "FastDrop", "ref": "fastdrop"}
+        ]
+    },
+{
+    "title": "Facciones",
+    "pages": [
+        {"name": "Alianza del Rey", "ref": "alianza_del_rey"},
+        {"name": "Reglamento Ciudadano", "ref": "reglamento_ciudadano"},
+        {"name": "Incorporaciones Ciudadanas", "ref": "reincorciuda", "updated": true},
+        {"name": "Quest's Ciudadanas", "ref": "quest_ciudadana"},
+        {"name": "Ejército de Lord Thek", "ref": "ejercito_de_lord_thek"},
+        {"name": "Reglamento Criminal", "ref": "reglamento_criminal"},
+        {"name": "Incorporaciones Criminales", "ref": "reincorcrimi", "updated": true},
+        {"name": "Quest's Criminales", "ref": "quest_criminal"}
+    ]
+},
+{
+    "title": "Mundo",
+    "pages": [
+        {"name": "Ciudades Exteriores", "ref": "ciudades_exteriores"},
+        {"name": "Mapa del Mundo", "ref": "mapadelmundo"},
+        {"name": "Dungeon's", "ref": "dungeons"},
+        {"name": "Minas", "ref": "minas"},
+        {"name": "Zona Caliente", "ref": "zona_caliente"},
+        {"name": "Deidades", "ref": "set_deidades"},
+        {"name": "Castillos", "ref": "castillos"}
+    ]
+},
+{
+    "title": "Medios de transporte",
+    "pages": [
+        {"name": "Navegación", "ref": "navegacion"},
+        {"name": "Pasajes", "ref": "pasajes"},
+        {"name": "Portal Luminoso", "ref": "portal"}
+    ]
+},
+{
+    "title": "Energía",
+    "pages": [
+        {"name": "Energía", "ref": "energia"},
+        {"name": "Provisiones", "ref": "provisiones"},
+        {"name": "Fogatas", "ref": "fogatas"},
+        {"name": "Supervivencia", "ref": "supervivencia"}
+    ]
+},
+{
+    "title": "Guías para el usuario",
+    "pages": [
+        {"name": "Reglamento", "ref": "reglamento"},
+        {"name": "Denunciar en Discord", "ref": "discord"},
+        {"name": "Seguridad", "ref": "guia4"},
+        {"name": "Ayuda FAQ's", "ref": "guia5"}
+    ]
+},
+{
+    "title": "Clases luchadoras",
+    "pages": [
+        {"name": "Mago", "ref": "mago"},
+        {"name": "Nigromante", "ref": "nigromante"},
+        {"name": "Bardo", "ref": "bardo"},
+        {"name": "Druida", "ref": "druida"},
+        {"name": "Clérigo", "ref": "clerigo"},
+        {"name": "Paladín", "ref": "paladin"},
+        {"name": "Asesino", "ref": "asesino"},
+        {"name": "Cazador", "ref": "cazador"},
+        {"name": "Arquero", "ref": "arquero"},
+        {"name": "Guerrero", "ref": "guerrero"},
+        {"name": "Pirata", "ref": "pirata"}
+    ]
+},
+{
+    "title": "Clases trabajadoras",
+    "pages": [
+        {"name": "Leñador", "ref": "lenador"},
+        {"name": "Carpintero", "ref": "carpintero"},
+        {"name": "Minero", "ref": "minero"},
+        {"name": "Herrero", "ref": "herrero"},
+        {"name": "Sastre", "ref": "sastre"},
+        {"name": "Pescador", "ref": "pescador"}
+    ]
+},
+{
+    "title": "Eventos",
+    "pages": [
+        {"name": "Reglamento de Eventos", "ref": "reglamento_de_eventos"},
+        {"name": "Kill Confirm", "ref": "kill_confirm"},
+        {"name": "Protector", "ref": "protector"},
+        {"name": "Capture the Flag", "ref": "ctheflag"},
+        {"name": "Defensa del Mensajero", "ref": "mensajero"},
+        {"name": "Destroy the Nexus", "ref": "destroy_the_nexus"},
+        {"name": "KillingSpree", "ref": "killingspree"},
+        {"name": "DeathMatch", "ref": "deathmatch"},
+        {"name": "Torneos 1vs1 Automáticos", "ref": "torneo1v1automatico"},
+        {"name": "Torneos 2vs2 Automáticos", "ref": "torneo2v2automatico"}
+    ]
+}
+]
