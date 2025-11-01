@@ -1,6 +1,6 @@
 [
     {
-        "title": "Creacíon de Personajes",
+        "title": "Creacíon de Personaje",
         "pages": [
             {"name": "Pantalla de Creación", "ref": "crearpj"},
             {"name": "Cuentas", "ref": "cuentas"},
