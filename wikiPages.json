@@ -5,7 +5,7 @@
             {"name": "Pantalla de Creación", "ref": "crearpj"},
             {"name": "Cuentas", "ref": "cuentas"},
             {"name": "Razas", "ref": "razas"},
-            {"name": "Skills", "ref": "skill"} 
+            {"name": "Skills", "ref": "skills"} 
         ]
     },
     {
