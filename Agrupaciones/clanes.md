@@ -2,7 +2,7 @@
 title: Clanes
 ---
 
-Los Clanes en las Tierras de Fúrius son de gran ayuda. Los integrantes de un clan son como una familia ya que se ayudan y cuidan entre sí. Siempre es útil saber que un compañero estará a nuestro lado para acompañarnos en muchas de las aventuras que atravesaremos.  
+Los clanes en las Tierras de Fúrius son de gran ayuda. Los integrantes de un clan son como una familia ya que se ayudan y cuidan entre sí. Siempre es útil saber que un compañero estará a nuestro lado para acompañarnos en muchas de las aventuras que atravesaremos.  
 A su vez, los Clanes también tienen un nivel, el cual permite que el mismo crezca y pueden participar del sistema de conquista.
 
 **Para fundar un clan es necesario:**
