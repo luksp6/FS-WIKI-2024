@@ -152,10 +152,7 @@
         {"name": "Clérigo", "ref": "clerigo"},
         {"name": "Paladín", "ref": "paladin"},
         {"name": "Asesino", "ref": "asesino"},
-        {"name": "Cazador", "ref": "cazador"},
-        {"name": "Arquero", "ref": "arquero"},
-        {"name": "Guerrero", "ref": "guerrero"},
-        {"name": "Pirata", "ref": "pirata"}
+        {"name": "Cazador", "ref": "cazador"}
     ]
 },
 {
